@@ -1,4 +1,5 @@
-#Step install install PHP7.0 with imap and mcrypt in macOS
+# Step to install PHP 7.0 with imap, mcrypt, mbstring, curl, bcmath in macOS
+
 ```bash
 brew install openssl
 #Download php source from http://php.net/downloads.php and extract
