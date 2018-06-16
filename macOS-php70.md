@@ -13,6 +13,6 @@ cp php.ini-development /usr/local/lib/php.ini
 #Install MongoDB
 sudo pecl install mongodb
 code /usr/local/lib/php.ini
-#add extention=mongodb.so
+#add extension=mongodb.so
 php -i|grep mongo
 ```
